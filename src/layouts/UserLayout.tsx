@@ -14,7 +14,7 @@ import VerticalLayout from 'src/@core/layouts/VerticalLayout'
 import VerticalNavItems from 'src/navigation/vertical'
 
 // ** Component Import
-import UpgradeToProButton from './components/UpgradeToProButton'
+// import UpgradeToProButton from './components/UpgradeToProButton'
 import VerticalAppBarContent from './components/vertical/AppBarContent'
 
 // ** Hook Import
@@ -44,7 +44,7 @@ const UserLayout = ({ children }: Props) => {
         <a
           target='_blank'
           rel='noreferrer'
-          href='https://themeselection.com/products/materio-mui-react-nextjs-admin-template/'
+          href='https://www.codergalib.live'
         >
           <img width={230} alt='upgrade to premium' src={`/images/misc/upgrade-banner-${settings.mode}.png`} />
         </a>
@@ -71,7 +71,7 @@ const UserLayout = ({ children }: Props) => {
       )}
     >
       {children}
-      <UpgradeToProButton />
+      {/* <UpgradeToProButton /> */}
     </VerticalLayout>
   )
 }

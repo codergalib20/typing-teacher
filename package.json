@@ -4,18 +4,18 @@
   "license": "MIT",
   "version": "1.0.0",
   "author": {
-    "name": "ThemeSelection",
-    "url": "https://themeselection.com/"
+    "name": "Asadullah Hil Galib",
+    "url": "https://codergalib.live"
   },
   "bugs": {
-    "url": "https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free/issues"
+    "url": "https://github.com/codergalib20/typing-teacher/issues"
   },
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free.git"
+    "url": "https://github.com/codergalib20/typing-teacher.git"
   },
-  "homepage": "https://themeselection.com/products/materio-free-mui-react-nextjs-admin-template/",
+  "homepage": "https://typing-teacher.live",
   "keywords": [
     "react",
     "javascript",

@@ -17,8 +17,8 @@ const FooterContent = () => {
           ❤️
         </Box>
         {` by `}
-        <Link target='_blank' href='https://themeselection.com/'>
-          ThemeSelection
+        <Link target='_blank' href='https://codergalib.live/'>
+          Asadullah Hil Galib
         </Link>
       </Typography>
       {hidden ? null : (
