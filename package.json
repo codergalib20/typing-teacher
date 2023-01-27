@@ -33,7 +33,12 @@
     "freebies",
     "nextjs-template",
     "react-dashboard",
-    "themeselection"
+    "codergalib",
+    "typing-test",
+    "learn",
+    "learn-typing",
+    "test",
+    "typing"
   ],
   "scripts": {
     "dev": "next dev",

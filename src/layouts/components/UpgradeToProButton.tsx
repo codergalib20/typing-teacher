@@ -43,7 +43,7 @@ const BuyNowButton = () => {
         onMouseEnter={handleOpen}
         onMouseLeave={handleClose}
         ref={(e: any) => setReferenceElement(e)}
-        href='https://themeselection.com/products/materio-mui-react-nextjs-admin-template/'
+        href='https://codergalib.live'
         sx={{
           backgroundColor: '#ff3e1d',
           boxShadow: '0 1px 20px 1px #ff3e1d',
@@ -68,7 +68,7 @@ const BuyNowButton = () => {
             <a
               target='_blank'
               rel='noreferrer'
-              href='https://themeselection.com/products/materio-mui-react-nextjs-admin-template/'
+              href='https://codergalib.live'
             >
               <img width='100%' alt='materio-pro-banner' src='/images/misc/materio-pro-banner.png' />
             </a>
@@ -88,7 +88,7 @@ const BuyNowButton = () => {
                 sx={{ mr: 4 }}
                 target='_blank'
                 variant='contained'
-                href='https://demos.themeselection.com/materio-mui-react-nextjs-admin-template/landing/'
+                href='https://codergalib.live'
               >
                 Demo
               </Button>
@@ -96,7 +96,7 @@ const BuyNowButton = () => {
                 component='a'
                 target='_blank'
                 variant='outlined'
-                href='https://themeselection.com/products/materio-mui-react-nextjs-admin-template/'
+                href='https://codergalib.live'
               >
                 Download
               </Button>
