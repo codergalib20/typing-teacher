@@ -1,5 +1,6 @@
 // ** MUI Imports
 import { PaletteMode } from '@mui/material'
+import {siteName} from '../utils/details'
 
 // ** Types
 import { ContentWidth } from 'src/@core/layouts/types'
@@ -17,7 +18,7 @@ type ThemeConfig = {
 
 const themeConfig: ThemeConfig = {
   // ** Layout Configs
-  templateName: 'Materio' /* App Name */,
+  templateName: siteName /* App Name */,
   mode: 'light' /* light | dark */,
   contentWidth: 'boxed' /* full | boxed */,
 
